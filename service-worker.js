@@ -1,4 +1,4 @@
-const CACHE_NAME = 'firstpwa-v1.1';
+const CACHE_NAME = 'firstpwa-v1.0';
 const urlsToCache = [
   "/",
   "/nav.html",
@@ -16,12 +16,10 @@ const urlsToCache = [
   // IMAGES:
   "/img/icons/appstore.png",
   "/img/icons/icon.png",
-  "/img/icons/icon48.png",
   "/img/icons/icon72.png",
   "/img/icons/icon96.png",
   "/img/icons/icon144.png",
   "/img/icons/icon192.png",
-  "/img/icons/logo.png",
   "/img/icons/playstore.png",
   "/img/1.jpg",
   "/img/2.png",
